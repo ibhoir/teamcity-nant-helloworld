@@ -7,5 +7,6 @@ class MainApp {
    public static void Main() {
       // Write text to the console.
       Console.WriteLine("Hello World using C#!");
+      Console.ReadLine();
    }
 }
